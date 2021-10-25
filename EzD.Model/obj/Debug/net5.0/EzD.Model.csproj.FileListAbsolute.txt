@@ -1,0 +1,24 @@
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\bin\Debug\net5.0\EzD.Model.deps.json
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\bin\Debug\net5.0\EzD.Model.dll
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\bin\Debug\net5.0\ref\EzD.Model.dll
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\bin\Debug\net5.0\EzD.Model.pdb
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\EzD.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\EzD.Model.AssemblyInfoInputs.cache
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\EzD.Model.AssemblyInfo.cs
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\EzD.Model.csproj.CoreCompileInputs.cache
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\EzD.Model.dll
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\ref\EzD.Model.dll
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\EzD.Model.pdb
+D:\Ruppin\EzDelivery\TomerS7\EzDelivery (1)\EzD.Model\obj\Debug\net5.0\EzD.Model.csprojAssemblyReference.cache
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\EzD.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\EzD.Model.AssemblyInfoInputs.cache
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\EzD.Model.AssemblyInfo.cs
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\EzD.Model.csproj.CoreCompileInputs.cache
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\EzD.Model.dll
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\ref\EzD.Model.dll
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\EzD.Model.pdb
+D:\Ruppin\EzDelivery\EzD.Model\bin\Debug\net5.0\EzD.Model.deps.json
+D:\Ruppin\EzDelivery\EzD.Model\bin\Debug\net5.0\EzD.Model.dll
+D:\Ruppin\EzDelivery\EzD.Model\bin\Debug\net5.0\ref\EzD.Model.dll
+D:\Ruppin\EzDelivery\EzD.Model\bin\Debug\net5.0\EzD.Model.pdb
+D:\Ruppin\EzDelivery\EzD.Model\obj\Debug\net5.0\EzD.Model.csproj.AssemblyReference.cache
