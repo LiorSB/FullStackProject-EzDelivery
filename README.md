@@ -1,7 +1,9 @@
 # FullStackProject-EzDelivery
 Full-Stack Web Application- built a project with 4 other members that is named "EzDelivery". We communicated and worked together through Azure. The project is a web app which provides a simple solution for sending and delivering items. Users can upload items they would like to send to delivery and other users that are set as delivery members can deliver those items. The front-end was developed with HTML, Javascript, JQuery, AJAX. The back-end was designed with the 3-tier architecture model and developed with C# using Entity Framework Core as the data the model. Prior to the project, we designed a use case diagram, sequence diagram and class diagram to make the coding part simpler.
 
-
+https://user-images.githubusercontent.com/92099051/154950386-2f289512-a0e2-4425-8dea-62fdc39ab349.mp4
+https://user-images.githubusercontent.com/92099051/154950396-27953a05-d6b7-4e14-8c04-eeae899f8e68.mp4
+https://user-images.githubusercontent.com/92099051/154950403-1cb0abf5-0ca3-44a5-8b4e-21138f301173.mp4
 
 ![image](https://user-images.githubusercontent.com/92099051/154912161-a3a8e625-4d34-43a5-99d7-b94a7bfa77d9.png)
 ![image](https://user-images.githubusercontent.com/92099051/154912177-d8808efc-db12-4242-983f-3e477be1e30f.png)
@@ -10,10 +12,7 @@ Full-Stack Web Application- built a project with 4 other members that is named "
 ![image](https://user-images.githubusercontent.com/92099051/154912213-fd0e87a4-9bb7-4ac4-9fb0-7c99b0567348.png)
 ![image](https://user-images.githubusercontent.com/92099051/154912223-3263e6c9-33c3-4b02-9db8-67575484c3b1.png)
 ![image](https://user-images.githubusercontent.com/92099051/154912231-51177033-9ce6-47e4-b9fc-68a96a625dae.png)
-
 ![image](https://user-images.githubusercontent.com/92099051/154912265-68bdb431-7209-42a0-967c-a55b35ea851a.png)
-
-
 ![image](https://user-images.githubusercontent.com/92099051/154911926-832dfacb-8ecf-40f7-8090-dbccce920036.png)
 ![image](https://user-images.githubusercontent.com/92099051/154911939-e3c9bcd1-9fb3-470c-9e49-1452f91bbfd0.png)
 ![image](https://user-images.githubusercontent.com/92099051/154911959-8088bab2-99a9-41af-a9e3-f884be04d368.png)
